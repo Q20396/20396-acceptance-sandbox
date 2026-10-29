@@ -1,0 +1,5 @@
+SYNTHETIC H6 ACCEPTANCE ONLY
+
+This file creates a minimal diff for one draft PR through the bounded H6 adapter.
+No production data. No workflow, deployment, merge or cleanup is authorized by this file.
+Product candidate manifest: 0081126474b113dcef7f2a71a6bacc92a7c60c5bbda91976b6795864b24c7ef1
